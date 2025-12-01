@@ -1,7 +1,7 @@
 # 👋 venton
 
 Reverse engineering & automation research.
----
+
 ## 🔧 Projects
 
 Auto-registration bots • Like bots • API reversals • Web automation • Platform tools
