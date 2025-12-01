@@ -1,13 +1,13 @@
 # 👋 venton
 
 Reverse engineering & automation research.
-
+---
 ## 🔧 Projects
 
 Auto-registration bots • Like bots • API reversals • Web automation • Platform tools
 
 **You're responsible for how you use this code.** I'm not liable for misuse.
-
+---
 ## 💰 Support
 
 **BTC**: `bc1q7yknak3yvdhrm5d9n527dy7qddng9tdqj923kz`  
